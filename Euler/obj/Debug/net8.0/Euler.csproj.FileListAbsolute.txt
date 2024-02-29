@@ -1,0 +1,14 @@
+C:\Users\230541\source\repos\Euler\Euler\bin\Debug\net8.0\Euler.exe
+C:\Users\230541\source\repos\Euler\Euler\bin\Debug\net8.0\Euler.deps.json
+C:\Users\230541\source\repos\Euler\Euler\bin\Debug\net8.0\Euler.runtimeconfig.json
+C:\Users\230541\source\repos\Euler\Euler\bin\Debug\net8.0\Euler.dll
+C:\Users\230541\source\repos\Euler\Euler\bin\Debug\net8.0\Euler.pdb
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.AssemblyInfoInputs.cache
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.AssemblyInfo.cs
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.csproj.CoreCompileInputs.cache
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.dll
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\refint\Euler.dll
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.pdb
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\Euler.genruntimeconfig.cache
+C:\Users\230541\source\repos\Euler\Euler\obj\Debug\net8.0\ref\Euler.dll
